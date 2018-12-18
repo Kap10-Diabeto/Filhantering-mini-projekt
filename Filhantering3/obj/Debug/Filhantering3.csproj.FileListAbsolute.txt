@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Filhantering3\Filhantering3\bin\Debug\Filhantering3.exe.config
+c:\users\admin\source\repos\Filhantering3\Filhantering3\bin\Debug\Filhantering3.exe
+c:\users\admin\source\repos\Filhantering3\Filhantering3\bin\Debug\Filhantering3.pdb
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.csprojAssemblyReference.cache
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.Form1.resources
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.Properties.Resources.resources
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.csproj.GenerateResource.cache
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.exe
+c:\users\admin\source\repos\Filhantering3\Filhantering3\obj\Debug\Filhantering3.pdb
